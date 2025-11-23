@@ -1,4 +1,4 @@
-# 🏦 BankApp (Core Java Project)
+# 🏦 BankManagement (Core Java Project)
 
 A **console-based Bank Management System** built in **Core Java** without frameworks.  
 This project demonstrates **OOP principles, file persistence, and transaction management** — making it a solid portfolio/resume project.  
